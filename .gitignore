@@ -30,4 +30,5 @@
 build/
 qt-build/
 *.user
+bin/
 
